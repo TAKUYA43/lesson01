@@ -6,3 +6,4 @@ if ($success !== false) {
 } else {
     echo 'ファイルの書き込みに失敗しました';
 }
+ss¥
